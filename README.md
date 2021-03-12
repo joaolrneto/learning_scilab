@@ -18,6 +18,6 @@ The development of the contents resulted from my experience during all academic 
 
 Enjoy!
 
-In this repository are the codes used in the book and are organized by chapter https://github.com/joaolrneto/learning_scilab/tree/main/Listin
+In this repository are the codes used in the book and are organized by chapter https://github.com/joaolrneto/learning_scilab/tree/main/Listin and
 https://github.com/joaolrneto/learning_scilab/tree/main/resources
  
